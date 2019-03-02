@@ -8,8 +8,8 @@ Via GitHub Workflow:
 
 ```hcl
 action "Run tests" {
-  uses "franzliedke/gh-action-php@master"
-  runs "php7.1 vendor/bin/phpunit"
+  uses = "franzliedke/gh-action-php@master"
+  runs = "php7.1 vendor/bin/phpunit"
 }
 ```
 
