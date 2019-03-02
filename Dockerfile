@@ -5,7 +5,7 @@ LABEL repository="https://github.com/franzliedke/gh-action-php"
 LABEL homepage="https://github.com/franzliedke/gh-action-php"
 LABEL maintainer="Franz Liedke <franz@develophp.org>"
 
-LABEL com.github.actions.name="PHP"
+LABEL com.github.actions.name="PHP Runner"
 LABEL com.github.actions.description="Executes a file with any PHP version."
 LABEL com.github.actions.icon="globe"
 LABEL com.github.actions.color="purple"
