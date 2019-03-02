@@ -1,11 +1,11 @@
 FROM debian:stretch
 
-LABEL version="0.1.0"
+LABEL version="0.2.0"
 LABEL repository="https://github.com/franzliedke/gh-action-php"
 LABEL homepage="https://github.com/franzliedke/gh-action-php"
 LABEL maintainer="Franz Liedke <franz@develophp.org>"
 
-LABEL com.github.actions.name="GitHub Action for PHP"
+LABEL com.github.actions.name="PHP"
 LABEL com.github.actions.description="Executes a file with any PHP version."
 LABEL com.github.actions.icon="globe"
 LABEL com.github.actions.color="purple"
