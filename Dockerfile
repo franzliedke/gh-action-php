@@ -16,4 +16,4 @@ RUN apt-get update && \
       curl https://packages.sury.org/php/apt.gpg | apt-key add - && \
       echo 'deb https://packages.sury.org/php/ bullseye main' > /etc/apt/sources.list.d/deb.sury.org.list && \
       apt-get update && \
-      apt-get install -y php5.6-cli php7.0-cli php7.1-cli php7.2-cli php7.3-cli
+      apt-get install -y php5.6-cli php7.0-cli php7.1-cli php7.2-cli php7.3-cli php7.4-cli php8.0-cli php8.1-cli
