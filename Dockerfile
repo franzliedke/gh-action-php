@@ -1,6 +1,6 @@
 FROM debian:bullseye
 
-LABEL version="0.2.0"
+LABEL version="0.3.0"
 LABEL repository="https://github.com/franzliedke/gh-action-php"
 LABEL homepage="https://github.com/franzliedke/gh-action-php"
 LABEL maintainer="Franz Liedke <franz@develophp.org>"
